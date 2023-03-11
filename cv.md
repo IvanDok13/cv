@@ -2,9 +2,9 @@
 ### Frontend Developer
 ---
 ### Contact information:
-**Phone:** +7(952)-268-28-64<br>  
-**E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br> 
-**Telegram:** [Dokivan](https://t.me/Dokivan)<br>  
+**Phone:** +7(952)-268-28-64<br>
+**E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br>
+**Telegram:** [Dokivan](https://t.me/Dokivan)<br>
 **Discord:** [IvanDok13](https://discordapp.com/users/IvanDok13#5167/)<br>
 
 ---
