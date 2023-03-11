@@ -3,10 +3,9 @@
 ---
 ### Contact information:
 **Phone:** +7(952)-268-28-64
-
-[E-mail:](mailto:klochkov.ivan.sergeevich@gmail.com) klochkov.ivan.sergeevich@gmail.com
-[Telegram](https://t.me/Dokivan)@Dokivan
-[Discord]( https://discordapp.com/users/IvanDok13#5167/)@IvanDok13
+**[E-mail:]**(mailto:klochkov.ivan.sergeevich@gmail.com)
+**[Telegram]**(https://t.me/Dokivan) @Dokivan
+**[Discord]**(https://discordapp.com/users/IvanDok13#5167/) @IvanDok13
 ---
 ### About Me:
 
