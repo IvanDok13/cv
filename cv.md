@@ -2,13 +2,10 @@
 ### Frontend Developer
 ---
 ### Contact information:
-**Phone:** +7(952)-268-28-64  
-
-**E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)  
-
-**Telegram:** [Dokivan](https://t.me/Dokivan)  
-
-**Discord:** [IvanDok13](https://discordapp.com/users/IvanDok13#5167/)
+**Phone:** +7(952)-268-28-64<br>  
+**E-mail:** [klochkov.ivan.sergeevich@gmail.com](mailto:klochkov.ivan.sergeevich@gmail.com)<br> 
+**Telegram:** [Dokivan](https://t.me/Dokivan)<br>  
+**Discord:** [IvanDok13](https://discordapp.com/users/IvanDok13#5167/)<br>
 
 ---
 ### About Me:
@@ -27,6 +24,7 @@ I love making improvements to workflows, solving complex problems, optimizing an
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="html" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="css" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" title="npm" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" title="eslint" width="40" height="40"/>&nbsp;
@@ -36,11 +34,11 @@ I love making improvements to workflows, solving complex problems, optimizing an
 ### Code examples:
 <a href="https://www.codewars.com/users/IvanDok"><img src="https://www.codewars.com/users/IvanDok/badges/large"></a>
 
-**Training JS #30: methods of arrayObject---reduce() and reduceRight():**
+**[Training JS #30: methods of arrayObject---reduce() and reduceRight():](https://www.codewars.com/kata/573156709a231dcec9000ee8)**
 *First, from left to right, the tail of an element and the head of the next element are added together. And then, Calculate their product and return it. All elements of arr are positive integer. If a number is less than 10, its head and tail are the same. Return result number*
 
 ```javascript
-function tailAndHead(arr){
+function tailAndHead(arr) {
   let copy = arr.slice();
   let newCopy = copy.reduce((a, b, i) => {
     b += '';
@@ -72,12 +70,12 @@ console.log(tailAndHead([35456,782,569,2454,875])); //12012
 
 ---
 ### Courses:
-Result School - HTML&CSS
-Hexlet - Front-end Developer
-PASV - JavaScript
+Result School - HTML&CSS<br>
+Hexlet - Front-end Developer<br>
+PASV - JavaScript<br>
 
 ---
-
 ### Languages:
-- English \- Upper-intermediate
 - Russian \- Native
+- English \- Upper-intermediate
+
