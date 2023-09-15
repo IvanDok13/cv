@@ -32,7 +32,7 @@ I love making improvements to workflows, solving complex problems, optimizing an
 
 ---
 ### Code examples:
-<a href="https://www.codewars.com/users/IvanDok"><img src="https://www.codewars.com/users/IvanDok/badges/large"></a>
+<a href="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87"><img src="https://www.codewars.com/users/rsschool_5bb3f79998ed1d87/badges/large"></a>
 
 **[Training JS #30: methods of arrayObject---reduce() and reduceRight():](https://www.codewars.com/kata/573156709a231dcec9000ee8)**
 *First, from left to right, the tail of an element and the head of the next element are added together. And then, Calculate their product and return it. All elements of arr are positive integer. If a number is less than 10, its head and tail are the same. Return result number*
@@ -61,12 +61,11 @@ console.log(tailAndHead([35456,782,569,2454,875])); //12012
 ```
 ---
 ### Projects
-1. Slide-Project
-2. Drag-and-Drop
-3. Slider-of-pictures
-4. Mini-game-interactive-board
-5. Game-Aim-training
-6. Figma-site
+1. [Traveling-site](https://ivandok13.github.io/traveling-site/)
+2. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
+3. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
+4. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
+5. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
 
 ---
 ### Courses:
