@@ -66,6 +66,7 @@ console.log(tailAndHead([35456,782,569,2454,875])); //12012
 3. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
 4. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
 5. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
+6. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
 
 ---
 ### Courses:
