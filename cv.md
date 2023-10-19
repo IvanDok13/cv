@@ -62,13 +62,14 @@ console.log(tailAndHead([35456,782,569,2454,875])); //12012
 ---
 ### Projects
 1. [Traveling-site](https://ivandok13.github.io/traveling-site/)
-2. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
-3. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
-4. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
-5. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
-6. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
-7. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
-8. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
+2. [Image-gallery](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/image-galery/)
+3. [Pictures-slider](https://ivandok13.github.io/pictures-slider/)
+4. [cssMemeSlider](https://ivandok13.github.io/cssMemeSlider/cssMemeSlider/index.html)
+5. [Car-Slider-Project](https://ivandok13.github.io/slide-project/)
+6. [Morse-decoder](https://github.com/IvanDok13/morse-decoder)
+7. [Video Player](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/custom-video/)
+8. [Library](https://rolling-scopes-school.github.io/ivandok13-JSFEPRESCHOOL2023Q2/library/)
+9. [Drag-and-drop](https://ivandok13.github.io/drag-and-drop/)
 
 ---
 ### Courses:
